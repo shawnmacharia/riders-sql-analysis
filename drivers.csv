@@ -1,0 +1,11 @@
+driver_id,name,city,car_model,rating,joined_date,status
+1,Mike Turner,New York,Toyota Camry,4.85,2021-01-15,active
+2,Sandra White,New York,Honda Civic,4.60,2021-03-20,active
+3,David Clark,Chicago,Ford Fusion,4.90,2020-11-10,active
+4,Laura Hall,Houston,Hyundai Elantra,4.75,2021-06-05,active
+5,Tom Harris,New York,Chevrolet Malibu,4.40,2022-02-18,active
+6,Nina Patel,Chicago,Toyota Corolla,4.95,2020-08-30,active
+7,Oscar James,Houston,Honda Accord,4.55,2022-05-22,inactive
+8,Paula Scott,New York,Nissan Altima,4.70,2021-09-14,active
+9,Quinn Baker,Chicago,Kia Optima,4.80,2021-12-01,active
+10,Rachel Young,Houston,Ford Escape,4.30,2022-08-10,inactive

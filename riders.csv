@@ -1,0 +1,11 @@
+rider_id,name,email,phone,city,signup_date,membership
+1,Alice Johnson,alice@gmail.com,555-0101,New York,2022-01-10,premium
+2,Bob Smith,bob@gmail.com,555-0102,New York,2022-03-22,free
+3,Carlos Rivera,carlos@gmail.com,555-0103,Chicago,2022-05-15,free
+4,Diana Lee,diana@gmail.com,555-0104,New York,2021-11-30,premium
+5,Eve Chen,eve@gmail.com,555-0105,Chicago,2023-01-08,free
+6,Frank Miller,frank@gmail.com,555-0106,Houston,2022-07-19,premium
+7,Grace Kim,grace@gmail.com,555-0107,New York,2023-02-14,free
+8,Henry Brown,henry@gmail.com,555-0108,Houston,2022-09-01,free
+9,Iris Davis,iris@gmail.com,555-0109,Chicago,2021-06-25,premium
+10,Jake Wilson,jake@gmail.com,555-0110,New York,2023-03-11,free

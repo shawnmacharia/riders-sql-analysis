@@ -1,0 +1,11 @@
+complaint_id,ride_id,rider_id,complaint_type,complaint_date,resolved
+1,7,7,late pickup,2024-01-11,yes
+2,8,8,wrong route,2024-01-12,yes
+3,12,2,no show driver,2024-01-16,no
+4,18,8,overcharge,2024-01-22,yes
+5,27,5,rude driver,2024-02-07,no
+6,3,3,late pickup,2024-01-07,yes
+7,15,5,wrong route,2024-01-19,no
+8,20,10,overcharge,2024-01-24,yes
+9,2,2,rude driver,2024-01-06,yes
+10,25,9,late pickup,2024-02-05,no

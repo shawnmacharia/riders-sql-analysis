@@ -1,0 +1,31 @@
+ride_id,rider_id,driver_id,pickup_location,dropoff_location,ride_date,distance_km,fare,ride_status,payment_method
+1,1,1,Times Square,Brooklyn Bridge,2024-01-05 08:30:00,12.50,18.75,completed,card
+2,2,2,Central Park,JFK Airport,2024-01-06 09:00:00,25.00,42.00,completed,wallet
+3,3,3,Wicker Park,Navy Pier,2024-01-07 10:15:00,8.30,13.50,completed,cash
+4,4,1,Manhattan,LaGuardia Airport,2024-01-08 07:45:00,18.00,30.00,completed,card
+5,5,6,Lincoln Park,Millennium Park,2024-01-09 11:00:00,5.50,9.25,completed,card
+6,6,4,Downtown Houston,Houston Airport,2024-01-10 14:30:00,22.00,36.50,completed,wallet
+7,7,5,Harlem,Times Square,2024-01-11 08:00:00,6.80,11.00,cancelled,card
+8,8,7,Midtown Houston,Galveston,2024-01-12 16:00:00,30.00,52.00,completed,cash
+9,9,9,South Loop,O'Hare Airport,2024-01-13 06:30:00,28.00,47.50,completed,card
+10,10,8,SoHo,Bronx,2024-01-14 13:00:00,15.20,24.00,completed,wallet
+11,1,2,Brooklyn,Manhattan,2024-01-15 09:30:00,10.00,16.50,completed,card
+12,2,5,Queens,Central Park,2024-01-16 17:00:00,9.50,15.00,no_show,wallet
+13,3,3,Evanston,Downtown Chicago,2024-01-17 08:45:00,14.00,22.50,completed,card
+14,4,8,Upper East Side,JFK Airport,2024-01-18 05:00:00,20.00,35.00,completed,card
+15,5,6,River North,Wrigley Field,2024-01-19 19:00:00,4.20,8.00,completed,cash
+16,6,4,Uptown Houston,Sugar Land,2024-01-20 12:00:00,18.50,28.00,completed,card
+17,7,1,Harlem,Newark Airport,2024-01-21 07:00:00,32.00,55.00,completed,wallet
+18,8,10,Katy,Downtown Houston,2024-01-22 10:30:00,25.00,40.00,cancelled,cash
+19,9,9,Evanston,Midway Airport,2024-01-23 15:00:00,22.00,38.00,completed,card
+20,10,2,Lower East Side,Brooklyn,2024-01-24 20:00:00,7.50,12.50,completed,card
+21,1,3,Midtown,Wall Street,2024-02-01 08:00:00,5.00,9.00,completed,card
+22,2,1,JFK Airport,Manhattan,2024-02-02 11:00:00,25.00,42.00,completed,wallet
+23,4,6,Chicago Loop,Evanston,2024-02-03 09:30:00,16.00,26.00,completed,card
+24,6,4,Houston Heights,Hobby Airport,2024-02-04 06:00:00,19.00,32.00,completed,cash
+25,9,9,Hyde Park,O'Hare Airport,2024-02-05 05:30:00,27.00,45.00,completed,card
+26,3,3,Old Town Chicago,Soldier Field,2024-02-06 17:30:00,6.00,10.50,completed,wallet
+27,5,6,Wicker Park,Midway Airport,2024-02-07 07:00:00,12.00,20.00,cancelled,card
+28,7,8,Upper West Side,LaGuardia Airport,2024-02-08 14:00:00,15.00,25.00,completed,card
+29,8,4,Memorial Park,Downtown Houston,2024-02-09 09:00:00,10.00,17.00,completed,wallet
+30,10,1,Brooklyn Heights,Times Square,2024-02-10 18:30:00,11.00,18.00,completed,card
